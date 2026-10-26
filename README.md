@@ -1,6 +1,6 @@
-# PA DOC Visitation Chatbot
+# Prison Visitation Chatbot
 
-A locally run RAG chatbot that answers questions from families of incarcerated individuals about visitation, based on official PA DOC guides.
+A locally run RAG chatbot that answers questions from families of incarcerated individuals about visitation, based on public PA DOC guides.
 
 Stack: Python, LangChain, Hugging Face Transformers, Phi-4-mini-instruct, Chroma, Streamlit, uv
 
