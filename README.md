@@ -12,7 +12,7 @@ Note: Model weights, source PDFs, and the vector database are not included in th
 
 ## About this project
 This is a personal demo built entirely from publicly available PA DOC
-visitor guides and web pages. It runs fully loncally and contains fully publically avalaible data 
+visitor guides and web pages. It runs fully locally and contains fully publicly available data 
 
 I built this prototype to demonstrate how a retrieval-augmented chatbot
 for visitation questions works. I later worked with the PA DOC team on
