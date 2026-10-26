@@ -1,0 +1,8 @@
+.venv/
+phi-4-mini-instruct/
+gemma-4-E2B-it/
+docs/
+*.pdf
+__pycache__/
+.env
+.DS_Store
